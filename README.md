@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Nnadi</h1>
-<h3 align="center">A pragmatic software engineer (DevOps)</h3>
+<h1 align="center">Hi 👋🏾, I'm Samuel Nnadi</h1>
+<h3 align="center">DevOps Engineer</h3>
 
 - 👯 I’m looking to collaborate on **DevOps projects**
 
