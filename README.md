@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Samuel Nnadi</h1>
-<h3 align="center">DevOps Engineer</h3>
 
-- 👯 I’m looking to collaborate on **DevOps projects**
+- 👯 I’m looking to collaborate on **DevOps, AIOps and CloudOps projects**
 
 - 📫 How to reach me **samuelsobechi@gmail.com**
 
